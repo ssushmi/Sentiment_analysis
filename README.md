@@ -1,4 +1,5 @@
 ** Sentiment Analysis of Yelp Reviews using BERT & NLP**
+
 This project performs sentiment analysis on reviews scraped from social media reviews using BERT-based transformers. It also visualizes sentiment distribution and generates a word cloud of positive reviews.
 
 🧠** What This Project Does**
